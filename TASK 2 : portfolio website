@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Your Name - Portfolio</title>
+ <style>
+ body {
+ font-family: Arial, sans-serif;
+ background-color: #f4f4f4;
+ margin: 0;
+ padding: 0;
+ }
+ header {
+ background-color: #333;
+ color: white;
+ text-align: center;
+ padding: 20px;
+ }
+ h1 {
+ margin: 0;
+ }
+ .container {
+ max-width: 800px;
+ margin: 20px auto;
+ padding: 20px;
+ background-color: #fff;
+ border-radius: 5px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+ }
+ h2 {
+ color: #333;
+ }
+ p {
+ line-height: 1.6;
+ }
+ ul {
+ list-style: none;
+ padding: 0;
+ }
+ li {
+ margin-bottom: 10px;
+ }
+ </style>
+</head>
+<body>
+ <header>
+ <h1>Sowandariya R</h1>
+ <p>STUDENT</p>
+ </header>
+ <div class="container">
+ <h2>About Me</h2>
+ <p>Hello! I'm a B.Tech computer science and business system studenT with a passion for creating beautiful and functional websites. I
+have experience in HTML, CSS, JavaScript, and more.</p>
+ <h2>Education</h2>
+ <p>B.Tech computer science and business system in rajalakshmi institute of technology</P>
+ <h2>Languages</h2>
+ <p>English - proficient</p>
+ <P>Tamil - native</P>
+ <p>japanese - beginner</p>
+ <h2>My Achievements</h2>
+ <ul>
+ <li>completed a web development bootcamp.</li>
+ <li>Designed a basic webpages.</li>
+ <li>certified in python for data science.</li>
+ </ul>
+ <h2>Contact Information</h2>
+ <p>Email: sowandariya1437@gmail.com</p>
+ <p>LinkedIn: <a href="https://www.linkedin.com/in/sowandariya-r-76745524a "
+target="_blank">linkedin.com/in/SOWANDARIYA R</a></p>
+ <p>GitHub: <a href="https://github.com/Sowandariya-07"
+target="_blank">github.com/SOWANDARIYA R</a></p>
+ </div>
+</body>
+</html>
